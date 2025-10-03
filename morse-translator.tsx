@@ -166,7 +166,7 @@ export default function MorseTranslator() {
       <div className="max-w-4xl mx-auto relative z-10">
         <div className="text-center mb-8">
           <h1 className="text-6xl font-bold mb-4 neon-text" style={{ color: '#ff00ff', fontFamily: 'Courier New, monospace', letterSpacing: '0.2em' }}>
-            MORSE
+            MORSE CODE TRANSLATOR
           </h1>
         </div>
 
